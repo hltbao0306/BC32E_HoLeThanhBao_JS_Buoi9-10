@@ -1,1 +1,0 @@
-# BC32E_HoLeThanhBao_JS_Buoi9-10
