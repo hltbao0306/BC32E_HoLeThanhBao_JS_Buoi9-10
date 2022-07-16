@@ -10,7 +10,7 @@ $( function() {
     });
 } );
 
-// Lay ngay mac dinh
+// Lấy ngày mặc định
 $( document ).ready(function() {
     var d = new Date();
 

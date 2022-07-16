@@ -188,7 +188,10 @@ a.article, a.article:hover {
     color: #fff !important;
 }
 
-
+.pass {
+    position: relative;
+    /* flex-grow: 1; */
+}
 
 /* ---------------------------------------------------
     CONTENT STYLE
